@@ -1,4 +1,45 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 *.pyc
 db.sqlite3
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+
+# 仮想環境
+venv/
+ENV/
+
+# エディタの設定
+.idea/
+.vscode/
+*.swp
+*.swo
+>>>>>>> cb751f2230c2c89d26a3e42d2483ea3ffd26c5c5
